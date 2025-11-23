@@ -43,3 +43,9 @@ Cada visualização foi projetada para leitura rápida e tomada de decisão prá
 – Google Sheets
 
 Os dados foram construídos manualmente para simular um cenário operacional realista.
+
+🔗 Visualize o Dashboard no Looker Studio
+
+O painel completo está disponível aqui:
+
+https://lookerstudio.google.com/u/0/reporting/6c6e30f7-513f-4faa-aece-dc818a1aff17/page/v7PgF
